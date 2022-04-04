@@ -1,0 +1,15 @@
+ h1{
+     font-family: 'Courier New', Courier, monospace
+ }
+h2{
+    color: crimson;
+}
+h3{
+    color: gold
+}
+body{
+    background-image: url(gume.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rosybrown;
+}
